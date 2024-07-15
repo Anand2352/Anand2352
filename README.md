@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anand2352
+- 👋 Hi, I’m Anand!
 - 👀 I’m very inclined towards Cybersecurity
 - 🌱 I’m currently learning the Google Cybersecurity Certification and CC from ISC2
 - 💞️ I’m looking for guidance and collaboration to set myself up on the right path towards an overall development in Cybersecurity.
